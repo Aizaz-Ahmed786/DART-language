@@ -46,4 +46,6 @@ void main() {
   num num19 = 34;
   num num20 = 4;
   print(num17 <= num18 || num19 >= num20);
+
+  // not oprator  --> !
 }

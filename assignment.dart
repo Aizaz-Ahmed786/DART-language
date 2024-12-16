@@ -13,4 +13,5 @@ void main() {
   bool o = e && i > 4;
 //true
   print(!(!o || e));
+  //false
 }
